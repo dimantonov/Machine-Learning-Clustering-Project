@@ -23,7 +23,7 @@ The study followed a rigorous Grid Search approach across the following algorith
 
 ## 📊 Visual Results
 ![Cluster Separation Analysis](Final_Optimized_DBSCAN.png)
-*Figure 1: Final DBSCAN output demonstrating perfect separation of "Moons", "Rings", and "Blobs".*
+*Figure 1: Final DBSCAN clustering results, successfully isolating non-linear structures and identifying distinct density-based clusters.*
 
 ## 📈 Key Findings
 - **Metric vs. Visualization:** A high Silhouette Score (K-Means) does not always correlate with geological accuracy in complex datasets.
